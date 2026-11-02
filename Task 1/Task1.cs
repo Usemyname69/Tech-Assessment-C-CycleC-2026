@@ -48,3 +48,4 @@ public class Task1
         Console.WriteLine(string.Join(", ", result)); // Output: 4, 12, 16
     }
 }
+
