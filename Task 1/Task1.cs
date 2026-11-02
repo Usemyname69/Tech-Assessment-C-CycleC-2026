@@ -4,8 +4,6 @@
 
 // Start the function (Start of Template)
 
-using System;
-using System.Collections.Generic;
 
 public class Task1 
 {
