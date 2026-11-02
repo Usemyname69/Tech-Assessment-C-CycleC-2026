@@ -27,4 +27,5 @@ GROUP BY
 - GROUP BY FirstName: Because we are using an aggregate function (COUNT), we use the GROUP BY clause to aggregate the order counts individually for each unique employee first name.
 
 
+
 4. For submission commit and push this .md file to Github
