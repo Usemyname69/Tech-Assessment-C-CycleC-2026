@@ -4,7 +4,6 @@
 
 // Start the function (Start of Template)
 
-
 public class Task1 
 {
     public static List<int> GetDoubledPositiveEvens(List<object> numberList) 
